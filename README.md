@@ -28,7 +28,6 @@ Shows how to use AWS with Terraform to accomplish the following tasks:
 * You must have an AWS account, and have your default credentials and AWS Region
   configured
 * You must have Terraform installed
-* You must own a Domain
 
 
 # Cautions
