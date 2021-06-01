@@ -12,8 +12,8 @@ Big data lake analysis using AWS infrastructure.
 ###### IaaC
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 
-# AWS VPC Peering Diagram
-![alt text](https://github.com/ValAug/VPC-Peering/blob/main/vpc_vpc.png)
+# AWS Data lake Diagram
+![alt text](https://github.com/ValAug/AWS_DataLake/blob/main/BD_diagram.png)
 
 
 # Purpose
