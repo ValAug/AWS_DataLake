@@ -1,4 +1,5 @@
-# #---provider---
+#---analiitc-provider---
+
 provider "aws" {
   default_tags {
 
